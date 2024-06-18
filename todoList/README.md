@@ -10,7 +10,6 @@ Technologies Used
 
     Java 20
     Spring Boot 2.x
-    Thymeleaf (for server-side templating)
 
 Setup
 
