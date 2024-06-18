@@ -1,6 +1,6 @@
 #Learning Spring Boot
 
-This repository is designed to help me and others who share my approach to learn Java in an organized manner through a series of small projects.
+This repository is designed to help me and others who share my approach to learn Spring Boot in an organized manner through a series of small projects.
 
 The idea for this repository came to me after completing the MOOC.fi Java Part I and II courses. Prior to that, I took several Udemy courses on Linux, Python, and general web development.
 
