@@ -18,3 +18,4 @@ About Me
 Feel free to reach out if you have any questions or would like to chat!
 
 ##Goals Coming Soon
+1. Build a todo List app without a database
